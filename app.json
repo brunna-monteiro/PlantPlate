@@ -3,9 +3,10 @@
     "name": "PlantPlate",
     "slug": "PlantPlate",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
+    "backgroundColor":"#302b2b",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
